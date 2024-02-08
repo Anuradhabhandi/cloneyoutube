@@ -1,0 +1,314 @@
+*{
+    background-color: black;
+    padding: 0%;
+    margin: 0%;
+}
+h1{
+    position: absolute;
+    left: 25px;
+    top: 9px;
+    font-size: 20px;
+}
+a{
+    position: absolute;
+    left: 70px;
+    top:5px ;
+    font-size: 19px;
+    color: white;
+    text-decoration: none; 
+    
+}
+ button{
+    color: white;
+    position: absolute;
+    left: 350px;
+    top: 10px;
+    width: 400px;
+    border-radius: 15px;
+    border: 1px solid lightskyblue;
+    height: 30px;
+    padding-left:350px ;
+    cursor: pointer;
+} 
+h2{
+    color: white;
+    position: absolute;
+    left: 760px;
+    top: 13px;
+    font-size: 20px;
+}
+h3{
+    color: white;
+    height: 100px;
+    width: 20px;
+    position: absolute;
+    left:980px ;
+    top: 13px;
+    font-size: 25px;
+}
+img{
+    height: 22px;
+    width: 30px;
+    position: absolute;
+    left: 930px;
+    top: 12px;
+    font-size: 50px;
+}
+h4 {
+    color: white;
+    position: absolute;
+    left:1030px ;
+    top: 18px;
+    
+}
+aside{
+    color: white;
+    
+}
+ #home{
+    position: absolute;
+    top: 55px;
+    left: 22px;
+    cursor: pointer;
+    
+}
+#shorts{
+    position: absolute;
+    top:90px ;
+    left: 22px;
+}
+#subscriptions{
+    position: absolute;
+    top: 120px;
+    left: 22px;
+}
+#border{
+    position: absolute;
+    top: 140px;
+    left: 22px;
+    border: 1px ;
+}
+#library{
+    position: absolute;
+    top: 180px;
+    left: 22px;
+}
+#history{
+    position: absolute;
+    top: 210px;
+    left: 22px;
+}
+#watch{
+    position: absolute;
+    top: 240px;
+    left: 22px;
+}
+#liked{
+    position:absolute;
+    top: 270px;
+    left: 22px;
+}
+#border1{
+    position: absolute;
+    top: 290px;
+    left: 22px;
+}
+#explore{
+    position: absolute;
+    top: 320px;
+    left: 22px;
+}
+#gaming{
+    position: absolute;
+    top: 350px;
+    left: 22px;
+
+}
+#news{
+    position: absolute;
+    top: 380px;
+    left: 22px;
+}
+#learning{
+    position: absolute;
+    top: 410px;
+    left: 22px;
+}
+#insta{
+    position: absolute;
+    top: 440px;
+    left: 22px;
+}
+ol{
+    display: flex;
+}
+ol li{
+    list-style: none;
+}
+#demo{
+    background-color:white;
+    border-radius: 4px;
+    
+    width: 40px;
+    position: absolute;
+    top: 57px;
+    left: 200px;
+    color:black;
+    padding-left: 17px;
+    
+    
+}
+#demo1{
+    background-color: rgb(78, 79, 80);
+    border-radius: 4px;
+    width: 65px;
+    position: absolute;
+    top:57px ;
+    left: 270px;
+    text-align: center;
+    color: white;
+    height: 20px;
+}
+#demo2{
+    background-color: rgb(78, 79, 80);
+    border-radius: 4px;
+    width: 65px;
+    position: absolute;
+    top:57px ;
+    left: 345px;
+    text-align: center;
+    color: white;
+    height: 20px;
+}
+#demo3{
+    background-color: rgb(78, 79, 80);
+    border-radius: 4px;
+    width: 165px;
+    position: absolute;
+    top:57px ;
+    left: 420px;
+    text-align: center;
+    color: white;
+    height: 21px;
+}
+#demo4{
+    background-color: rgb(78, 79, 80);
+    border-radius: 4px;
+    width: 65px;
+    position: absolute;
+    top:57px ;
+    left: 594px;
+    text-align: center;
+    color: white;
+    height: 20px;
+}
+#demo5{
+    background-color: rgb(78, 79, 80);
+    border-radius: 4px;
+    width: 65px;
+    position: absolute;
+    top:57px ;
+    left: 667px;
+    text-align: center;
+    color: white;
+    height: 20px;
+}
+#demo6{
+    background-color: rgb(78, 79, 80);
+    border-radius: 4px;
+    width: 65px;
+    position: absolute;
+    top:57px ;
+    left: 740px;
+    text-align: center;
+    color: white;
+    height: 20px;
+}
+#demo7{
+    background-color: rgb(78, 79, 80);
+    border-radius: 4px;
+    width: 65px;
+    position: absolute;
+    top:57px ;
+    left: 813px;
+    text-align: center;
+    color: white;
+    height: 20px;
+}
+#demo8{
+    background-color: rgb(78, 79, 80);
+    border-radius: 4px;
+    width: 65px;
+    position: absolute;
+    top:57px ;
+    left: 885px;
+    text-align: center;
+    color: white;
+    height: 20px;
+}
+#demo9{
+    background-color: rgb(78, 79, 80);
+    border-radius: 4px;
+    width: 80px;
+    position: absolute;
+    top:57px ;
+    left: 959px;
+    text-align: center;
+    color: white;
+    height: 20px;
+}
+#video1{
+    padding-left: 200px;
+    padding-top: 50px;
+    
+}
+#demo11{
+ margin-left: 200px;
+ position: absolute;
+ top: 270px;
+}
+#video2{
+    padding-left: 35px;
+    padding-top: 53px;
+}
+#demo12{
+    margin-left: 100px;
+    position: absolute;
+    top: 270px;
+}
+#video3{
+    padding-left: 40px;
+    padding-top: 53px;
+}
+#demo13{
+    margin-left:70px ;
+    position: absolute;
+    top:270px ;
+}
+#video4{
+    padding-left: 200px;
+    padding-top: 10px;
+}
+#demo14{
+    margin-left:210px ;
+    position: absolute;
+    top:480px ;
+}
+#video5{
+    padding-left: 35px;
+    padding-top: 13px;
+}
+#demo15{
+    margin-left:85px ;
+    position: absolute;
+    top:485px ;
+}
+#video6{
+    padding-left: 35px;
+    padding-top: 13px;
+}
+#demo16{
+    margin-left:75px ;
+    position: absolute;
+    top:485px ;
+}
